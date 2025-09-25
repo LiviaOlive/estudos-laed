@@ -17,8 +17,8 @@ int main() {
     int *PIDADE = 0;
     PIDADE = &IDADE;
     printf("o valor de IDADE e: %d\n", *PIDADE);
-    printf("o endereco de IDADE e: %i\n", &IDADE);
-    printf("o endereco de memoria e: %x\n", PIDADE);
+    printf("o endereco de IDADE e: %p\n", &IDADE);
+    printf("o endereco de memoria e: %p\n", PIDADE);
     impressao();
 // Operador unário & (“endereço de”)
 // Operador unário * (“conteúdo de”)
