@@ -45,9 +45,3 @@ Para compilar e executar os arquivos `.c` presentes neste repositório, você pr
     ```bash
     ./nome_do_executavel
     ```
-
-## Autora
-
-**Lívia Oliveira**
-
--   GitHub: [@LiviaOlive](https://github.com/LiviaOlive)
